@@ -9,7 +9,7 @@ empirica de metales pesados (Fe, Cu, Zn).
 
 Reaccion de referencia: FeS2 + 15/4 O2 + 7/2 H2O -> Fe(OH)3 + 2 H2SO4
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations

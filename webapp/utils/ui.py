@@ -5,7 +5,7 @@ Componentes de interfaz compartidos: CSS, topbar, hero, tarjetas, footer.
 Estilo "ONG ambiental" (verde lima + verde bosque) adaptado a mineria
 responsable en Puno, Peru.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations
@@ -19,7 +19,7 @@ LOGO_UNAP = REPO_ROOT / "unap.png"
 LOGO_FIM = REPO_ROOT / "fim.png"
 STYLE_CSS = WEBAPP_DIR / "assets" / "style.css"
 
-AUTHORS = ["Maria Isabel Nayde Zevallos Ttito", "Arlet Mariciela Espezua Cuentas"]
+AUTHORS = ["Maria Isabel Nayde Zevallos Ttito", "Arlet Maricielo Espezua Cuentas"]
 COURSE = "Introduccion a la Ciencia de Datos"
 FACULTY = "Facultad de Ingenieria de Minas (FIM)"
 UNIVERSITY = "Universidad Nacional del Altiplano (UNA) - Puno"

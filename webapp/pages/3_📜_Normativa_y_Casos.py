@@ -5,7 +5,7 @@ Pagina Normativa y Casos: marco legal ambiental peruano aplicado a la
 mineria, formalizacion (IGAFOM/REINFO) y casos reales documentados de
 mineria y medio ambiente en la region Puno.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 import sys

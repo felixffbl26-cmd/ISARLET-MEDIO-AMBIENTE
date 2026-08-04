@@ -7,7 +7,7 @@ Curso      : Introduccion a la Ciencia de Datos
 Facultad   : Ingenieria de Minas (FIM) - VIII Semestre
 Universidad: Universidad Nacional del Altiplano (UNA) - Puno
 Autoras    : Maria Isabel Nayde Zevallos Ttito
-             Arlet Mariciela Espezua Cuentas
+             Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations

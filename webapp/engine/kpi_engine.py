@@ -12,7 +12,7 @@ Evalua el cumplimiento frente a la normativa ambiental peruana (LMP D.S.
 010-2010-MINAM / ECA Agua D.S. 004-2017-MINAM) generando alertas utiles
 como insumo para instrumentos de formalizacion minera (IGAFOM/REINFO).
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations

@@ -11,7 +11,7 @@ tipico del altiplano (humedo Dic-Mar, seco May-Ago), escalado de forma
 proporcional. Fuente: SENAMHI, Boletin Regional de Puno.
 https://www.senamhi.gob.pe/load/file/04701SENA-98.pdf
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations

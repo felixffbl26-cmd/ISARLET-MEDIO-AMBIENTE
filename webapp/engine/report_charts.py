@@ -7,7 +7,7 @@ este modulo se mantiene separado porque reportlab necesita imagenes
 rasterizadas y Matplotlib no requiere backend grafico ni dependencias
 adicionales (funciona igual en un servidor headless como Streamlit Cloud).
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations

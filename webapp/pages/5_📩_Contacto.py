@@ -3,7 +3,7 @@ AQUA-DAR PUNO v2.0 (Web Edition)
 ================================
 Pagina Contacto: creditos, equipo y datos de referencia del curso.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 import sys

@@ -5,7 +5,7 @@ Generador de Informes Ejecutivos PDF (reportlab), con portada institucional
 (logos FIM/UNAP), metodologia, graficos, tablas de KPIs y recomendaciones
 de formalizacion.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations
@@ -30,7 +30,7 @@ BRAND_GREEN_DARK = colors.HexColor("#1B4D3E")
 BRAND_GREEN_LIME = colors.HexColor("#8BC53F")
 LIGHT_ROW = colors.HexColor("#F1F7F0")
 
-AUTHORS = ["Maria Isabel Nayde Zevallos Ttito", "Arlet Mariciela Espezua Cuentas"]
+AUTHORS = ["Maria Isabel Nayde Zevallos Ttito", "Arlet Maricielo Espezua Cuentas"]
 COURSE_INFO = {
     "curso": "Introduccion a la Ciencia de Datos",
     "facultad": "Facultad de Ingenieria de Minas (FIM)",

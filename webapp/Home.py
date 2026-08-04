@@ -5,7 +5,7 @@ Pagina de inicio (landing page).
 
 Curso: Introduccion a la Ciencia de Datos - FIM - VIII Semestre
 Universidad Nacional del Altiplano (UNA) - Puno
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 import sys

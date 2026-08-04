@@ -5,7 +5,7 @@ Pagina Dashboard: vista ampliada de KPIs, semaforo de cumplimiento y
 recomendaciones de formalizacion, a partir de la ultima simulacion
 ejecutada en la pagina Simulador.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 import sys

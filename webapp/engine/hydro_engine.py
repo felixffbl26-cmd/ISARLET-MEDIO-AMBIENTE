@@ -8,7 +8,7 @@ duracion del dia segun la latitud de Puno, acoplado a un modelo de
 balance hidrico tipo "bucket" para estimar infiltracion, percolacion y
 generacion mensual de lixiviado desde un deposito minero.
 
-Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Mariciela Espezua Cuentas
+Autoras: Maria Isabel Nayde Zevallos Ttito / Arlet Maricielo Espezua Cuentas
 """
 
 from __future__ import annotations
